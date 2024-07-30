@@ -1,0 +1,2 @@
+# getnettoken
+getnet
