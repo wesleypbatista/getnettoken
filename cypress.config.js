@@ -2,6 +2,7 @@
 module.exports = {
   e2e: {
     baseUrl: "https://api-homologacao.getnet.com.br/",
+    supportFile: false,
     setupNodeEvents(on, config) {
       // implement node event listeners here
     },
